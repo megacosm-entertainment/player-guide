@@ -7,8 +7,9 @@ url: https://playerguide.sentiencemud.net
 color_scheme: dark
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
+  Main Site: https://sentiencemud.net
+  Discord: https://discord.gg/E2Ahw5Xy
+  
 nav_external_links:
  - title: "Immortal Guide"
    url: https://immguide.sentiencemud.net
