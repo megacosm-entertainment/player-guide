@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<blowtorch xmlversion="2">
+  <windows>
+    <window name="mainDisplay" id="6666">
+      <layoutGroup target="normal">
+        <layout orientation="landscape" above="40" alignParentLeft="true" width="fill_parent" height="fill_parent" />
+        <layout orientation="portrait" above="40" alignParentLeft="true" width="fill_parent" height="fill_parent" />
+      </layoutGroup>
+      <options>
+        <option key="font_size">15</option>
+        <option key="line_extra">2</option>
+      </options>
+    </window>
+  </windows>
+  <options>
+    <option key="gmcp_supports">"char 1"</option>
+    <option key="bell_display">false</option>
+  </options>
+  <triggers />
+  <aliases />
+  <timers />
+  <directions>
+    <entry dir="s" cmd="s" />
+    <entry dir="e" cmd="e" />
+    <entry dir="w" cmd="w" />
+    <entry dir="h" cmd="nw" />
+    <entry dir="j" cmd="ne" />
+    <entry dir="k" cmd="sw" />
+    <entry dir="l" cmd="se" />
+    <entry dir="n" cmd="n" />
+  </directions>
+  <plugins>
+    <plugin name="button_window" id="10">
+      <author></author>
+      <windows>
+        <window name="button_window" id="10203" script="buttonwindow">
+          <layoutGroup target="normal">
+            <layout orientation="landscape" above="40" width="fill_parent" height="fill_parent" />
+            <layout orientation="portrait" above="40" width="fill_parent" height="fill_parent" />
+          </layoutGroup>
+          <options>
+            <option key="line_extra">2</option>
+          </options>
+        </window>
+      </windows>
+      <aliases />
+      <triggers />
+      <timers />
+      <options title="Button" summary="Haptic feedback, roundess and other button options.">
+        <boolean key="auto_launch" title="Automatically launch editor" summary="Automatically launch the editor on the long press action.">true</boolean>
+        <boolean key="auto_create" title="Automatically create buttons" summary="Will add new buttons to emty regions that are long pressed.">true</boolean>
+        <integer key="roundess" title="Button roundness" summary="Radius of button corners.">6</integer>
+        <list key="haptic_edit" title="Haptic feedback on editor launch." summary="Perform haptic feedback when the editor is opened.">
+          <value>0</value>
+          <item>Auto. Obey System Setting</item>
+          <item>Always. Override System Setting</item>
+          <item>Off</item>
+        </list>
+        <list key="haptic_press" title="Haptic feedback on press." summary="Perform haptic feedback when pressed.">
+          <value>0</value>
+          <item>Auto. Obey System Setting</item>
+          <item>Always. Override System Setting</item>
+          <item>Off</item>
+        </list>
+        <list key="haptic_flip" title="Haptic feedback on flip." summary="Perform Haptic feedback when flipped (swipe action).">
+          <value>0</value>
+          <item>Auto. Obey System Setting</item>
+          <item>Always. Override System Setting</item>
+          <item>Off</item>
+        </list>
+      </options>
+      <script name="bootstrap" execute="true"><![CDATA[
+		
+			require("buttonserver")
+		
+		
+      ]]>
+      </script>
+      <script name="buttonwindow"><![CDATA[
+			
+			require("buttonwindow")
+		
+  		
+      ]]>
+      </script>
+      <buttonsets>
+        <selected>test</selected>
+        <buttons><![CDATA[return { ["test"] = { { ["width"] = 48, ["x"] = 853.5625, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 257.1875, ["switchTo"] = "", ["height"] = 48, ["flipColor"] = -1996554240, ["flipLabel"] = "", ["command"] = "look", ["label"] = "look", ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["flipLabelColor"] = -2013265665, ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 853.4375, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 388.3125, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "north", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "north", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 984.4375, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 519.3125, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "east", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "east", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 853.5625, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 650.9375, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "south", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "south", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 721.4375, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 519.3125, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "west", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "west", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 984.4375, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 388.3125, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "northeast", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "ne", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 984.4375, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 650.3125, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "southeast", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "se", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 722.3125, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 650.9375, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "southwest", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "sw", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 721.4375, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 388.3125, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "northwest", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "nw", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 853.4375, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -1996551936, ["y"] = 519.3125, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "who", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "who", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 721.4375, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 256.3125, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "up", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "up", ["name"] = "", ["labelSize"] = 16 }, { ["x"] = 984.8125, ["flipColor"] = -1996554240, ["labelColor"] = -1431655766, ["primaryColor"] = -2013265665, ["y"] = 257.1875, ["switchTo"] = "", ["height"] = 48, ["width"] = 48, ["flipLabel"] = "", ["command"] = "down", ["flipLabelColor"] = -2013265665, ["selectedColor"] = -2013200640, ["flipCommand"] = "", ["label"] = "down", ["name"] = "", ["labelSize"] = 16 } }, ["default"] = { { ["flipLabel"] = "", ["x"] = 2003.5, ["label"] = "N", ["y"] = -74, ["command"] = "north", ["flipCommand"] = "open n", ["labelSize"] = "24" }, { ["flipLabel"] = "", ["x"] = 2142.625, ["label"] = "E", ["y"] = 65.125, ["command"] = "east", ["flipCommand"] = "open e", ["labelSize"] = "24" }, { ["flipLabel"] = "", ["x"] = 2003.5, ["label"] = "S", ["y"] = 204.25, ["command"] = "south", ["flipCommand"] = "open s", ["labelSize"] = "24" }, { ["flipLabel"] = "", ["x"] = 1864.375, ["label"] = "W", ["y"] = 65.125, ["command"] = "west", ["flipCommand"] = "open w", ["labelSize"] = "24" }, { ["flipLabel"] = "", ["x"] = 1864.375, ["label"] = "U", ["y"] = -74, ["command"] = "up", ["flipCommand"] = "open u", ["labelSize"] = "24" }, { ["flipLabel"] = "", ["x"] = 1864.375, ["label"] = "D", ["y"] = 204.25, ["command"] = "down", ["flipCommand"] = "open d", ["labelSize"] = "24" }, { ["flipLabel"] = "", ["x"] = 2142.625, ["label"] = "LOOK", ["y"] = 204.25, ["command"] = "look", ["flipCommand"] = "", ["labelSize"] = 23 }, { ["flipLabel"] = "", ["x"] = 2142.625, ["label"] = "SCORE", ["y"] = -74, ["command"] = "score", ["flipCommand"] = "", ["labelSize"] = 23 }, { ["flipLabel"] = "", ["x"] = 2142.625, ["label"] = "CLEAR", ["y"] = 343.375, ["command"] = ".clearbuttons", ["flipCommand"] = "", ["labelSize"] = 23 } } }]]>
+        </buttons>
+        <defaults><![CDATA[return { ["test"] = {  }, ["default"] = { ["name"] = "default", ["width"] = "48", ["height"] = "48", ["labelSize"] = "23" } }]]>
+        </defaults>
+      </buttonsets>
+    </plugin>
+  </plugins>
+</blowtorch>
