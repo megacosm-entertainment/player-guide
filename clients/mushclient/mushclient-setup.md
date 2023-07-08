@@ -3,6 +3,7 @@ layout: default
 title: MUSHclient setup
 nav_order: 1
 parent: MUSHclient
+grand_parent: MUD Clients
 ---
 
 Downloading: [http://www.gammon.com.au/downloads/dlmushclient.htm](MCDownloadLink)
