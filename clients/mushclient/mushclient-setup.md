@@ -2,6 +2,7 @@
 layout: default
 title: MUSHclient setup
 nav_order: 1
+parent: MUSHclient
 ---
 
 Downloading: [http://www.gammon.com.au/downloads/dlmushclient.htm](MCDownloadLink)
