@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
-nav_order: 3
+title: Social
+nav_order: 7
 has_children: true
 ---

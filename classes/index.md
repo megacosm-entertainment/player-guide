@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
-nav_order: 3
+title: Classes
+nav_order: 5
 has_children: true
 ---

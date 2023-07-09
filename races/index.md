@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
-nav_order: 3
+title: Races
+nav_order: 4
 has_children: true
 ---
