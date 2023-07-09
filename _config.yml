@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Player Guide
+description: A guide for new and returning players to SentienceMUD
 theme: just-the-docs
 
 url: https://playerguide.sentiencemud.net
@@ -17,3 +17,14 @@ nav_external_links:
  - title: "Builder Guide"
    url: https://olc.sentiencemud.net
    hide-icon: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  notice:
+    title: Notice
+    color: yellow
+  info:
+    title: Information
+    color: blue
