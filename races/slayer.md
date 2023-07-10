@@ -11,11 +11,9 @@ parent: Races
 The slayer is the ultimate of holy warriors; it is a special sect that wishes to seek out the undead and put an end to their measly existence. Years of training under the parish and with clerical assistance the Slayer develops a technique of damaging the undead beyond repair. Slayers have for centuries despised vampires as the most lowly undead creatures.
 
 
-{: .text-yellow-100}**Affects**: {: .text-grey-lt-100}detect evil
-
-{: .text-yellow-100}**Skills**: {: .text-grey-lt-100}holy wrath, shift, stake
-
-{: .text-yellow-100}**Special abilities**: {: .text-grey-lt-100}None
+{: .text-yellow-100} **Affects**: {: .text-grey-lt-100} detect evil
+{: .text-yellow-100} **Skills**: {: .text-grey-lt-100} holy wrath, shift, stake
+{: .text-yellow-100} **Special abilities**: {: .text-grey-lt-100} None
 
 {: .text-yellow-100}**Immune to**: {: .text-grey-lt-100}None
 
