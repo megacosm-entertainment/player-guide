@@ -14,15 +14,15 @@ For most of these, you can turn them on or off simply by entering the channel na
 |channel | scope | example |
 |:-------|:------|:--------|
 | say | room | say This is a test. |
-| whisper | single target (same room) | whisper <name> This is a test. |
-| tell | single target (global) | tell <name> You smell! |
+| whisper | single target (same room) | whisper `<name>` This is a test. |
+| tell | single target (global) | tell `<name>` You smell! |
 | reply | single target (global) | reply No you! |
 | yell | area | yell This zone is awesome! |
 | music | global | music You can check out any time you like, but you can never leave |
 | gossip | global | gossip I love this game! |
 | ooc | global | ooc My computer exploded! |
 | flaming | global | flaming The imms are dumb! |
-| quotes | global | quote Fool me once, strick one. Fool me twice, strike three. - Michael Scott |
+| quotes | global | quote Fool me once, strike one. Fool me twice, strike three. - Michael Scott |
 | helper | helpers and staff | helper I've fallen and I can't get up |
 | war | unused | Please don't use this |
 | announcements | special | `This is a read-only channel for system announcements` |
