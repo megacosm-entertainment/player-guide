@@ -42,7 +42,7 @@ Sentience has a number of settings that can be toggled to adjust your play exper
 # Bust-A-Prompt!
 Your prompt is information that appears at the end of every room, round of combat, or update. By default, it will show your current hp, mana, and movement, but this can be modified.
 
-There are a large number of codes that you can use to modify your prompt, and they are detailed in `help prompt` in the game, but are also reproduced here for your convenience. Be aware that you can also set [colour](Colour in Sentience) codes in your prompt.
+There are a large number of codes that you can use to modify your prompt, and they are detailed in `help prompt` in the game, but are also reproduced here for your convenience. Be aware that you can also set [colour](colour) codes in your prompt.
 
 Default prompt: `{B<{X%h{Bhp {X%m{Bm {X%v{Bmv>{X`
 
