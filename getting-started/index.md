@@ -22,7 +22,7 @@ Once you've provided an email address, you will be asked to make a number of sel
 1. Enable colour?
    This is highly recommended on the Legacy server. Colour is heavily used for showing clues.
 2. Choose your alignment - Good, Neutral, Evil
-   {: .Warning}
+   {: .warning}
    While not noted at this point in character creation, this impacts your available races and subclasses. You may only select races that match your chosen alignment, while you are given a degree of freedom with subclasses.
    Neutral characters can choose any subclass, while Good and Evil are limited to Neutral and their own alignment. No Vampire Paladins, sorry.
 3. Choose your [race](races) - Limited by alignment. For a summary of all races, see [races](races). In the game, you can type `help` for a list of all races and their maximum stats.
