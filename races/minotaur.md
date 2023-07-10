@@ -6,7 +6,7 @@ has_children: false
 parent: Races
 ---
 
-<span style="color: yellow">Alignment: Malice</span>
+<span style="color: yellow">Alignment:</span> <span style="color: red">Malice</span>
 
 
 The mighty minotaur is a brute warrior with a human body but more bovine features. His face resembles a man more than a bull, but he has giant horns with which to gore opposition. Minotaurs have very thick skin and grow thick coats of fur rather than hair like humans. They are malicious but not the most intelligent of creatures.
