@@ -22,7 +22,7 @@ Once you've provided an email address, you will be asked to make a number of sel
 1. Enable colour?
    This is highly recommended on the Legacy server. Colour is heavily used for showing clues.
 2. Choose your alignment - Good, Neutral, Evil
-   {: .warning}
+   {: .Warning}
    While not noted at this point in character creation, this impacts your available races and subclasses. You may only select races that match your chosen alignment, while you are given a degree of freedom with subclasses.
    Neutral characters can choose any subclass, while Good and Evil are limited to Neutral and their own alignment. No Vampire Paladins, sorry.
 3. Choose your [race](races) - Limited by alignment. For a summary of all races, see [races](races). In the game, you can type `help` for a list of all races and their maximum stats.
@@ -48,6 +48,7 @@ A few things to note about rooms in Sentience:
 - NPCs and players in the room are listed after objects, without indentation. They may also have auras of various colours on the lines following their descriptions.
 
 If the 'Arbiter of Truth' does not automatically move you to the next room, you may do so by typing `enter portal`.
+
 
 ![The second room, where you can begin moving around the game](assets/second_room.png)
 
