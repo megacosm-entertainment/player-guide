@@ -12,27 +12,28 @@ The slayer is the ultimate of holy warriors; it is a special sect that wishes to
 
 
 <span style="color: yellow">**Affects**:</span> <span style="color:white">detect evil</span>
+{: .lh-tight}
 
 <span style="color: yellow">**Skills**:</span> <span style="color:white">holy wrath, shift, stake
-{: .lh-0}
+{: .lh-tight}
 
 <span style="color: yellow">**Special abilities**:</span> <span style="color:white">None{: .text-grey-lt-100}
-{: .lh-0}
+{: .lh-tight}
 
 <span style="color: yellow">**Immune to**:</span> <span style="color:white">None
-{: .lh-0}
+{: .lh-tight}
 
 <span style="color: yellow">**Resistant to**:</span> <span style="color:white">None
-{: .lh-0}
+{: .lh-tight}
 
 <span style="color: yellow">**Vulnerable to**:</span> <span style="color:white">negative
-{: .lh-0}
+{: .lh-tight}
 
 <span style="color: yellow">**Str**:</span> <span style="color:white">20</span> <span style="color: yellow">**Int**:</span> <span style="color:white">20</span> <span style="color: yellow">**Wis**:</span> <span style="color:white">20</span> <span style="color: yellow">**Dex**:</span> <span style="color:white">20</span> <span style="color: yellow">**Con**:</span> <span style="color:white">20</span>
-{: .lh-0}
+{: .lh-tight}
 
 <span style="color: yellow">**Max health**:</span> <span style="color:white">3250</span> <span style="color: yellow">**Max mana**:</span> <span style="color:white">2750</span> <span style="color: yellow">**Max movement**:</span> <span style="color:white">2750</span>
-{: .lh-0}
+{: .lh-tight}
 
 <span style="color: yellow">**Size**:</span> <span style="color:white">medium</span>
-{: .lh-0}
+{: .lh-tight}
