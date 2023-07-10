@@ -6,10 +6,12 @@ parent: MUSHclient
 grand_parent: MUD Clients
 ---
 
-Downloading: [http://www.gammon.com.au/downloads/dlmushclient.htm](MCDownloadLink)
+# Downloading: 
+[MUSHclient](http://www.gammon.com.au/downloads/dlmushclient.htm)
 
-Basic configuration:
+---
 
+# Basic configuration:
 ![Basic MUSHclient interface](assets/interface_1.png)
 Above: The base MUSHclient interface. By default, the 'activity' bar is not docked at the top of the screen. I recommend docking it to the right of the other buttons in the toolbar.
 
