@@ -24,6 +24,9 @@ The shortest explanation is that only words necessary for executing a command ar
 `look in <container>` is a notable exception to the above conventions.
 
 You can further combine these as needed as part of your interaction with the world. To get the sword "Vengeance" from Scarm's Coffin, equip it, and attack a guard, you would use a set of commands such as the following:
+
 `get vengeance coffin`
+
 `equip vengeance`
+
 `kill guard`
