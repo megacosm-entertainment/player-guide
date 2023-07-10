@@ -49,6 +49,7 @@ A few things to note about rooms in Sentience:
 - Visible objects in the room are indented below the Exits line.
 - NPCs and players in the room are listed after objects, without indentation. They may also have auras of various colours on the lines following their descriptions.
 
+{: .info}
 If the 'Arbiter of Truth' does not automatically move you to the next room, you may do so by typing `enter portal`.
 
 

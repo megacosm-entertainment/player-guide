@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlowTorch Button Configuration
-nav_order: 1
+nav_order: 2
 parent: BlowTorch
 grand_parent: MUD Clients
 ---
