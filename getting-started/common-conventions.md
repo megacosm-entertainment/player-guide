@@ -29,3 +29,6 @@ get vengeance coffin
 equip vengeance
 kill guard
 ```
+
+# The Passage of Time
+Time in Sentience is currently handled at a rate of 1 hour ingame being approximately equal to 1 minute of real time. This means an ingame day will pass in 24 minutes. Most spells and other timers are built around this assumption, and you will often see reference to 'ticks'. These are the once-per-minute pulses that will refresh your stats, cause objects to do things, and periodically reset zones.
