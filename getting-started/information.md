@@ -21,19 +21,19 @@ Below the box, you can see your former classes, your rank in your church (if any
 # Stats overview
 ---
 Strength - Primarily used to determine bonuses to hit and damage rolls, maximum carrying capacity and weight, and the maximum weight of weapons you can wield.
-{: .lh-0}
+{: .lh-thin}
 
 Intelligence - Primarily used to determine the percentage gained when improving skills and spells.
-{: .lh-0}
+{: .lh-thin}
 
 Wisdom - Primarily used to determine how many practices you gain each time you level.
-{: .lh-0}
+{: .lh-thin}
 
 Dexterity - Primarily used for checking defensive skills and actions.
-{: .lh-0}
+{: .lh-thin}
 
 Constitution - Primarily used to determine hit point gain on level, and resistance to stuns or other shocks.
-{: .lh-0}
+{: .lh-thin}
 
 # Growing Up
 ---
