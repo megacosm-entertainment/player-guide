@@ -6,10 +6,7 @@ has_children: false
 parent: Races
 ---
 
-**Alignment**:{: .text-yellow-100}
-{: .text-grey-lt-100}
-Pious
-
+**Alignment**:{: .text-yellow-100} Pious{: .text-grey-lt-100}
 
 The slayer is the ultimate of holy warriors; it is a special sect that wishes to seek out the undead and put an end to their measly existence. Years of training under the parish and with clerical assistance the Slayer develops a technique of damaging the undead beyond repair. Slayers have for centuries despised vampires as the most lowly undead creatures.
 
