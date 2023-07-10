@@ -2,7 +2,6 @@
 layout: default
 title: Common Conventions
 nav_order: 1
-has_children: true
 parent: Getting Started
 ---
 # Common Conventions
