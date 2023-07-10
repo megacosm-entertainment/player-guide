@@ -6,8 +6,7 @@ has_children: false
 parent: Races
 ---
 
-{: .text-yellow-100}
-**Alignment**: 
+**Alignment**:{: .text-yellow-100}
 {: .text-grey-lt-100}
 Pious
 
