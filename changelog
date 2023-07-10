@@ -1,0 +1,27 @@
+Flags
+- Room
+- - ADDED: 'blueprint' room2 flag - Used for blueprints in instancing
+- - ADDED: 'no_clone' room2 flag - Prevents cloning the room. Mutually exclusive with blueprint.
+- - ADDED?: 'virtual_room' room2 flag
+- - ADDED: 'prevfloor' and 'nextfloor' exit flags for use in dungeons.
+- - ADDED: 'nosearch' exit flag to prevent searching hidden exits.
+- - ADDED: 'mustsee' exit flag to require an exit be visible to use. Imms with holylight can see these.
+- - ADDED: 'no_get_random' room2 flag, functions as area flag to hide specific room from random room selection.
+- - ADDED: 'safe_harbor' room2 flag for use with ships
+- Mob
+- - ADDED: 'hide_shop' mob flag- Does not display mob as shopkeeper on minimap.
+- - ADDED: 'renewer' act2 flag - Allows mobs to 'renew' items.
+- - ADDED: 'hired' act2 flag - Denotes hired mobs. Set contract timer with scripting.
+- - ADDED: 'show_in_wilds' act2 flag. Mobs will display as yellow @.
+- Object
+- - CHANGED: 'inventory' - Polarity flipped to indicate item sold to vendor is available for purchase again.
+- - ADDED: 'sectionrandom', 'instancerandom', 'dungeonrandom' portal flags.
+- - CHANGED: 'arearandom' portal flag. Used in conjunction with v5 on portals to specify an area.
+- - REMOVED: 'hidden' portal flag
+- - ADDED: 'show_in_wilds' obj3 flag. Objects will display as white *.
+- Area
+- - ADDED: 'area_no_get_random' - Prevents random mob/obj/room/area functions from selecting this zone.
+- - ADDED: 'no_fading' - Prevents fading zone wide.
+- - ADDED: 'blueprint' - Used as part of blueprints/instancing system.
+- Locks
+- - ADDED: 'noremove', 'broken', 'jammed', 'nojam', 'created' lock flags.
