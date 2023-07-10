@@ -48,28 +48,28 @@ There are a large number of codes that you can use to modify your prompt, and th
 Default prompt: `{B<{X%h{Bhp {X%m{Bm {X%v{Bmv>{X`
 
 Prompt options:
-| code | effect |
-| ----- | ------- |
-| %h | Current HP |
-| %m | Current mana |
-| %v | Current moves |
-| %H | Max HP |
-| %M | Max mana |
-| %V | Max moves |
-| %x | Current experience |
-| %X | Experience needed to next level |
-| %g | Gold on hand |
-| %s | Silver on hand |
-| %a | Alignment |
-| %r | Room name |
-| %e | Exits in NWSEUD format |
-| %c | Line break|
-| %w | Current weight |
-| %W | Max weight |
-| %q | Quest points |
-| %Q | Quests completed |
-| %p | Practices |
-| %P | Pneuma |
-| %t | Trains |
-| %b | Bank balance |
-| %C | Weight of carried coins |
+| code | effect | |
+|:-----|:-------|:-----|
+| %h | Current HP | |
+| %m | Current mana | |
+| %v | Current moves | |
+| %H | Max HP | |
+| %M | Max mana | |
+| %V | Max moves | |
+| %x | Current experience | |
+| %X | Experience needed to next level | |
+| %g | Gold on hand | |
+| %s | Silver on hand | |
+| %a | Alignment | |
+| %r | Room name | |
+| %e | Exits in NWSEUD format | |
+| %c | Line break| |
+| %w | Current weight | |
+| %W | Max weight | |
+| %q | Quest points | |
+| %Q | Quests completed | |
+| %p | Practices | |
+| %P | Pneuma | |
+| %t | Trains | |
+| %b | Bank balance | |
+| %C | Weight of carried coins | |

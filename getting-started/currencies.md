@@ -17,7 +17,7 @@ There are a number of ways to get ahead in Sentience, but each of them will cost
   
   For every creature you kill in the world, they may leave behind a corpse or some of their belongings. The gods, however, demand eternal tribute. You may `sacrifice` items (such as gems, weapons, enemy corpses, and so on) to earn deity points. Should your luck run out and you fall in battle or to misadventure, you may attempt to locate the warlock, Geldoff, who will restore you to life for some of your precious deity points.
   
-  {: .Note}
+  {: .info}
   Returning to life via Geldoff will cost (current level * 250) deity points, and return you to the 'recall' room of the zone where you died. Hopefully this will be safe!
 
 - **Quest Points**
