@@ -56,3 +56,6 @@ If the 'Arbiter of Truth' does not automatically move you to the next room, you 
 ![The second room, where you can begin moving around the game](assets/second_room.png)
 
 In this room you will see that the map is different. The white 'S' indicators to the left of your current position indicate 'safe' rooms. Additionally, the compass indicates that you can move west. If you would like some practice interacting with objects, you can use commands such as `look scroll` or `sit couch` (though you will need to `stand` before moving west). The scroll will have some information about movement, but you can always simply type the direction you would like to move if it is an available exit.
+
+# R&R
+If your vital stats ever get low, you should take the opportunity to either `rest` or `sleep`. Sleeping will recover more stats every tick, but if you are a PK player, or in a PK room, be aware that assassins can attempt to slit your throat. It is advised that you try to find a bedroll at some point, as these bedrolls will recover your stats more quickly.
