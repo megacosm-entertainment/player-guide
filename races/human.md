@@ -6,26 +6,35 @@ has_children: false
 parent: Races
 ---
 
-{: .text-yellow-100}**Alignment**:{: .text-grey-lt-100} Neutral
+<span style="color: yellow">**Alignment**:</span> <span style="color: white">Neutral</span>
 
  
 Humans are the most common race in Sentience. They have no special magical powers but are the most numerous because of their ability to work together and settle the lands. Humans are extremely adaptive and can master almost any learned skill, mundane or magical. They have no devotion to either side in the holy war.
 
 
-{: .text-yellow-100}**Affects**:{: .text-grey-lt-100} None
+<span style="color: yellow">**Affects**:</span> <span style="color: white">None</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Skills**:{: .text-grey-lt-100} None
+<span style="color: yellow">**Skills**:</span> <span style="color: white">None</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Special abilities**:{: .text-grey-lt-100} +3 to max attributes from class bonuses
+<span style="color: yellow">**Special abilities**:</span> <span style="color: white">+3 to max attributes from class bonuses</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Immune to**:{: .text-grey-lt-100} None
+<span style="color: yellow">**Immune to**:</span> <span style="color: white">None</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Resistant to**:{: .text-grey-lt-100} None
+<span style="color: yellow">**Resistant to**:</span> <span style="color: white">None</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Vulnerable to**:{: .text-grey-lt-100} None
+<span style="color: yellow">**Vulnerable to**:</span> <span style="color: white">None</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Str**:{: .text-grey-lt-100} 18  {: .text-yellow-100}**Int**:{: .text-grey-lt-100} 18  {: .text-yellow-100}**Wis**:{: .text-grey-lt-100} 18  {: .text-yellow-100}**Dex**:{: .text-grey-lt-100} 18  {: .text-yellow-100}**Con**:{: .text-grey-lt-100} 18 
+<span style="color: yellow">**Str**:</span> <span style="color: white">18</span> - <span style="color: yellow">**Int**:</span> <span style="color: white">18</span> - <span style="color: yellow">**Wis**:</span> <span style="color: white">18</span> - <span style="color: yellow">**Dex**:</span> <span style="color: white">18</span> - <span style="color: yellow">**Con**:</span> <span style="color: white">18</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Max health**:{: .text-grey-lt-100} 3000  {: .text-yellow-100}**Max mana**:{: .text-grey-lt-100} 3000  {: .text-yellow-100}**Max movement**:{: .text-grey-lt-100} 3000
+<span style="color: yellow">**Max health**:</span> <span style="color: white">3000</span> - <span style="color: yellow">**Max mana**:</span> <span style="color: white">3000</span> - <span style="color: yellow">**Max movement**:</span> <span style="color: white">3000</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Size**:{: .text-grey-lt-100} medium
+<span style="color: yellow">**Size**:</span> <span style="color: white">medium</span>
+{: .lh-tight}

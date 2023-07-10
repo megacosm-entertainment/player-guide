@@ -30,10 +30,10 @@ The draconian is a fusion of the ancient power of the dragon and the sly, sneaky
 <span style="color: yellow">**Vulnerable to**:</span> <span style="color: white">cold</span>
 {: .lh-tight}
 
-<span style="color: yellow">**Str**:</span> <span style="color: white">21</span> <span style="color: yellow">**Int**:</span> <span style="color: white">18</span> <span style="color: yellow">**Wis**:</span> <span style="color: white">18</span> <span style="color: yellow">**Dex**:</span> <span style="color: white">18</span> <span style="color: yellow">**Con**:</span> <span style="color: white">21 
+<span style="color: yellow">**Str**:</span> <span style="color: white">21</span> - <span style="color: yellow">**Int**:</span> <span style="color: white">18</span> - <span style="color: yellow">**Wis**:</span> <span style="color: white">18</span> - <span style="color: yellow">**Dex**:</span> <span style="color: white">18</span> - <span style="color: yellow">**Con**:</span> <span style="color: white">21 
 {: .lh-tight}
 
-<span style="color: yellow">**Max health**:</span> <span style="color: white">3150</span> <span style="color: yellow">**Max mana**:</span> <span style="color: white">2750</span> <span style="color: yellow">**Max movement**:</span> <span style="color: white">3000</span>
+<span style="color: yellow">**Max health**:</span> <span style="color: white">3150</span> - <span style="color: yellow">**Max mana**:</span> <span style="color: white">2750</span> - <span style="color: yellow">**Max movement**:</span> <span style="color: white">3000</span>
 {: .lh-tight}
 
 <span style="color: yellow">**Size**:</span> <span style="color: white">medium</span>

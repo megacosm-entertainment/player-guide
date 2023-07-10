@@ -6,16 +6,35 @@ has_children: false
 parent: Races
 ---
 
-{: .text-yellow-100}**Alignment**:{: .text-grey-lt-100} Pious
+<span style="color: yellow">**Alignment**:</span> <span style="color: white">Pious</span>
  
+
 The Elves are beings much more in touch with nature that normal human beings and can thus channel the mana of nature more, increasing their magical powers. They make incredible warriors as well, although their graceful form is not designed for brute front-line fighting. Elves live to great ages and have exceptional memory.
 
-{: .text-yellow-100}**Affects**:{: .text-grey-lt-100} haste
-{: .text-yellow-100}**Skills**:{: .text-grey-lt-100} archery, bow, hide, sneak
-{: .text-yellow-100}**Special abilities**:{: .text-grey-lt-100} +5% accuracy when shooting ranged weapons
-{: .text-yellow-100}**Immune to**:{: .text-grey-lt-100} None
-{: .text-yellow-100}**Resistant to**:{: .text-grey-lt-100} magic
-{: .text-yellow-100}**Vulnerable to**:{: .text-grey-lt-100} iron
-{: .text-yellow-100}**Str**:{: .text-grey-lt-100} 20  {: .text-yellow-100}**Int**:{: .text-grey-lt-100} 22  {: .text-yellow-100}**Wis**:{: .text-grey-lt-100} 20  {: .text-yellow-100}**Dex**:{: .text-grey-lt-100} 21  {: .text-yellow-100}**Con**:{: .text-grey-lt-100} 20 
-{: .text-yellow-100}**Max health**:{: .text-grey-lt-100} 2500  {: .text-yellow-100}**Max mana**:{: .text-grey-lt-100} 3750  {: .text-yellow-100}**Max movement**:{: .text-grey-lt-100} 2800
-{: .text-yellow-100}**Size**:{: .text-grey-lt-100} medium
+
+<span style="color: yellow">**Affects**:</span> <span style="color: white">haste</span>
+{: .lh-tight}
+
+<span style="color: yellow">**Skills**:</span> <span style="color: white">archery, bow, hide, sneak</span>
+{: .lh-tight}
+
+<span style="color: yellow">**Special abilities**:</span> <span style="color: white">+5% accuracy when shooting ranged weapons</span>
+{: .lh-tight}
+
+<span style="color: yellow">**Immune to**:</span> <span style="color: white">None</span>
+{: .lh-tight}
+
+<span style="color: yellow">**Resistant to**:</span> <span style="color: white">magic</span>
+{: .lh-tight}
+
+<span style="color: yellow">**Vulnerable to**:</span> <span style="color: white">iron</span>
+{: .lh-tight}
+
+<span style="color: yellow">**Str**:</span> <span style="color: white">20</span> - <span style="color: yellow">**Int**:</span> <span style="color: white">22</span> - <span style="color: yellow">**Wis**:</span> <span style="color: white">20</span> - <span style="color: yellow">**Dex**:</span> <span style="color: white">21</span> - <span style="color: yellow">**Con**:</span> <span style="color: white">20</span>
+{: .lh-tight}
+
+<span style="color: yellow">**Max health**:</span> <span style="color: white">2500</span> - <span style="color: yellow">**Max mana**:</span> <span style="color: white">3750</span> - <span style="color: yellow">**Max movement**:</span> <span style="color: white">2800</span>
+{: .lh-tight}
+
+<span style="color: yellow">**Size**:</span> <span style="color: white">medium</span>
+{: .lh-tight}
