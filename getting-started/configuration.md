@@ -49,7 +49,7 @@ Default prompt: `{B<{X%h{Bhp {X%m{Bm {X%v{Bmv>{X`
 
 Prompt options:
 | code | effect |
-|:-----|:-------|
+| ----- | ------- |
 | %h | Current HP |
 | %m | Current mana |
 | %v | Current moves |
