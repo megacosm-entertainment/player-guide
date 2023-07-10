@@ -9,11 +9,11 @@ In Sentience, there are 11 races available to players, with 11 'remort' variatio
 
 ---
 
-Among the good-aligned races are the [Elves](elf.md), [Draconians](draconian.md), [Titans](titan.md), and [Slayers](slayer.md).
+Among the good-aligned races are the [Elves](elf.html), [Draconians](draconian.html), [Titans](titan.html), and [Slayers](slayer.html).
 
-Their counterparts among the evil races are the [Drow](drow.md), [Sith](sith.md), [Minotaurs](minotaur.md), and [Vampires](vampire.md).
+Their counterparts among the evil races are the [Drow](drow.html), [Sith](sith.html), [Minotaurs](minotaur.html), and [Vampires](vampire.html).
 
-Finally, the four races who stand neutral are the [Dwarves](dwarvf.md),[Humans](human.md), and [Liches](lich.md).
+Finally, the four races who stand neutral are the [Dwarves](dwarvf.html),[Humans](human.html), and [Liches](lich.html).
 
 ---
 
