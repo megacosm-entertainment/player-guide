@@ -18,7 +18,25 @@ The third column begins with your practices, trains, current level in your class
 At the bottom of the cyan box is your current armour class. Lower is better!
 Below the box, you can see your former classes, your rank in your church (if any), how much you are carrying, what your 'wimpy' is set to (automatic fleeing), and your current position.
 
+# Stats overview
+---
+Strength - Primarily used to determine bonuses to hit and damage rolls, maximum carrying capacity and weight, and the maximum weight of weapons you can wield.
+{: .lh-0}
+
+Intelligence - Primarily used to determine the percentage gained when improving skills and spells.
+{: .lh-0}
+
+Wisdom - Primarily used to determine how many practices you gain each time you level.
+{: .lh-0}
+
+Dexterity - Primarily used for checking defensive skills and actions.
+{: .lh-0}
+
+Constitution - Primarily used to determine hit point gain on level, and resistance to stuns or other shocks.
+{: .lh-0}
+
 # Growing Up
+---
 At any time, you can type `skills` or `spells` to see your currently available skills and spells. In the case of skills, this shows their name and your current rating, from 1% to Master. For spells, you will also see a mana cost. If you are looking to only display specific skills or spells, you can append the name to the skills/spells command, such as `skill sword`.
 
 To increase your skills, you will need to seek out trainers, such as Adamah in Plith, or Geofels in Olaria. When visiting these NPCs, you can type `practice <skill or spell>` to increase your rating. How much this increases depends on both the difficulty of the skill and your intelligence attribute.
