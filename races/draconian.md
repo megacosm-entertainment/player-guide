@@ -6,26 +6,35 @@ has_children: false
 parent: Races
 ---
 
-{: .text-yellow-100}**Alignment**: {: .text-grey-lt-100}Pious
+<span style="color: yellow">**Alignment**:</span> <span style="color: white">Pious
 
 
 The draconian is a fusion of the ancient power of the dragon and the sly, sneaky skills of human creatures. A draconian is slightly larger than a human being and has scales instead of human skin. They posess the power to breathe upon their enemies fire, frost, gas, and lightning.
 
 
-{: .text-yellow-100}**Affects**: {: .text-grey-lt-100}flying, infrared
+<span style="color: yellow">**Affects**:</span> <span style="color: white">flying, infrared</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Skills**: {: .text-grey-lt-100}breathe, fast healing
+<span style="color: yellow">**Skills**:</span> <span style="color: white">breathe, fast healing</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Special abilities**: {: .text-grey-lt-100}None
+<span style="color: yellow">**Special abilities**:</span> <span style="color: white">None</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Immune to**: {: .text-grey-lt-100}None
+<span style="color: yellow">**Immune to**:</span> <span style="color: white">None</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Resistant to**: {: .text-grey-lt-100}fire, bash, charm
+<span style="color: yellow">**Resistant to**:</span> <span style="color: white">fire, bash, charm</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Vulnerable to**: {: .text-grey-lt-100}cold
+<span style="color: yellow">**Vulnerable to**:</span> <span style="color: white">cold</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Str**: {: .text-grey-lt-100}21  {: .text-yellow-100}**Int**: {: .text-grey-lt-100}18  {: .text-yellow-100}**Wis**: {: .text-grey-lt-100}18  {: .text-yellow-100}**Dex**: {: .text-grey-lt-100}18  {: .text-yellow-100}**Con**: {: .text-grey-lt-100}21 
+<span style="color: yellow">**Str**:</span> <span style="color: white">21</span> <span style="color: yellow">**Int**:</span> <span style="color: white">18</span> <span style="color: yellow">**Wis**:</span> <span style="color: white">18</span> <span style="color: yellow">**Dex**:</span> <span style="color: white">18</span> <span style="color: yellow">**Con**:</span> <span style="color: white">21 
+{: .lh-tight}
 
-{: .text-yellow-100}**Max health**: {: .text-grey-lt-100}3150  {: .text-yellow-100}**Max mana**: {: .text-grey-lt-100}2750  {: .text-yellow-100}**Max movement**: {: .text-grey-lt-100}3000
+<span style="color: yellow">**Max health**:</span> <span style="color: white">3150</span> <span style="color: yellow">**Max mana**:</span> <span style="color: white">2750</span> <span style="color: yellow">**Max movement**:</span> <span style="color: white">3000</span>
+{: .lh-tight}
 
-{: .text-yellow-100}**Size**: {: .text-grey-lt-100}medium
+<span style="color: yellow">**Size**:</span> <span style="color: white">medium</span>
+{: .lh-tight}

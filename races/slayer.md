@@ -14,19 +14,19 @@ The slayer is the ultimate of holy warriors; it is a special sect that wishes to
 <span style="color: yellow">**Affects**:</span> <span style="color:white">detect evil</span>
 {: .lh-tight}
 
-<span style="color: yellow">**Skills**:</span> <span style="color:white">holy wrath, shift, stake
+<span style="color: yellow">**Skills**:</span> <span style="color:white">holy wrath, shift, stake</span>
 {: .lh-tight}
 
-<span style="color: yellow">**Special abilities**:</span> <span style="color:white">None{: .text-grey-lt-100}
+<span style="color: yellow">**Special abilities**:</span> <span style="color:white">None</span>
 {: .lh-tight}
 
-<span style="color: yellow">**Immune to**:</span> <span style="color:white">None
+<span style="color: yellow">**Immune to**:</span> <span style="color:white">None</span>
 {: .lh-tight}
 
-<span style="color: yellow">**Resistant to**:</span> <span style="color:white">None
+<span style="color: yellow">**Resistant to**:</span> <span style="color:white">None</span>
 {: .lh-tight}
 
-<span style="color: yellow">**Vulnerable to**:</span> <span style="color:white">negative
+<span style="color: yellow">**Vulnerable to**:</span> <span style="color:white">negative</span>
 {: .lh-tight}
 
 <span style="color: yellow">**Str**:</span> <span style="color:white">20</span> <span style="color: yellow">**Int**:</span> <span style="color:white">20</span> <span style="color: yellow">**Wis**:</span> <span style="color:white">20</span> <span style="color: yellow">**Dex**:</span> <span style="color:white">20</span> <span style="color: yellow">**Con**:</span> <span style="color:white">20</span>
