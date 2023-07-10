@@ -16,9 +16,9 @@ The slayer is the ultimate of holy warriors; it is a special sect that wishes to
  detect evil
 {: .text-grey-lt-100}
 
-**Skills**:
+**Skills**: 
 {: .text-yellow-100}
- holy wrath, shift, stake
+holy wrath, shift, stake
 {: .text-grey-lt-100}
 
 **Special abilities**: 
