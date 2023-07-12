@@ -6,6 +6,9 @@ parent: Getting Started
 ---
 
 # Talking to Others
+
+---
+
 Sentience is a multiplayer game at its heart, and as such, there are multiple channels of communication. You may see the available channels at any time using the `channels` command.
 
 For most of these, you can turn them on or off simply by entering the channel name with nothing else. Some are local, while others will be heard across the entire zone, or game.

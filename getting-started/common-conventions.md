@@ -4,8 +4,11 @@ title: Common Conventions
 nav_order: 1
 parent: Getting Started
 ---
+
 # Common Conventions
+
 ---
+
 As a text based game, there are a few common conventions in use here that you may not be familiar with.
 
 The shortest explanation is that only words necessary for executing a command are typically recognized. For example, in Interactive Fiction games, it is common to do something like, `look at <object>`, while in Sentience, this would be `look <object>`.
