@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-In Sentience, there are 11 races available to players, with 11 'remort' variations on those races. Once you reach level 120, you are able to start over with the remort version of your race. Among the races, 3 are associated with the 'good' alignment, 3 with 'evil', and 4 'neutral'. For now, we're just including the ingame helpfile for each race.
+In Sentience, there are 11 races available to players, with 11 'remort' variations on those races. Once you reach level 120, you are able to start over with the remort version of your race. Among the races, 4 are associated with the 'good' alignment, 4 with 'evil', and 3 'neutral'. For now, we're just including the ingame helpfile for each race.
 
 ---
 
