@@ -13,7 +13,7 @@ Among the good-aligned races are the [Elves](elf.html), [Draconians](draconian.h
 
 Their counterparts among the evil races are the [Drow](drow.html), [Sith](sith.html), [Minotaurs](minotaur.html), and [Vampires](vampire.html).
 
-Finally, the four races who stand neutral are the [Dwarves](dwarvf.html),[Humans](human.html), and [Liches](lich.html).
+Finally, the four races who stand neutral are the [Dwarves](dwarf.html),[Humans](human.html), and [Liches](lich.html).
 
 ---
 
